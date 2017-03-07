@@ -15,7 +15,7 @@
     <title>Duncan Fraiser</title>
     <link rel="icon" href="{{url('/img/blacklogo.png')}}">
 
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Duncan Fraiser">
 
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100%7CRoboto:400,700,300,100' rel='stylesheet' type='text/css'>
 
@@ -51,8 +51,8 @@
          <!-- APPLE IOS WEB APP NECESSITIES -->
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-title" content="Duncan">
-        <link rel="apple-touch-icon" href="/blacklogo.png">
-        <link rel="apple-touch-startup-image" href="/blacklogo.png">
+        <link rel="apple-touch-icon" href="{{url('/img/blacklogo.png')}}">
+        <link rel="apple-touch-startup-image" href="{{url('/img/blacklogo.png')}}">
         <!-- By Default, Links open externally (in safari) on the IOS Web App after 'download'. This prevents internal links from opening externally. It still allows external links to open externally, though. -->
         <script type="text/javascript">
             if(("standalone" in window.navigator) && window.navigator.standalone){
