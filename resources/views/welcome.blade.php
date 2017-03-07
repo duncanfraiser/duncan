@@ -47,6 +47,31 @@
     <!--[if lt IE 9]>
     <script src="js/respond.min.js"></script>
 <![endif]-->
+
+         <!-- APPLE IOS WEB APP NECESSITIES -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-title" content="Duncan">
+        <link rel="apple-touch-icon" href="/blacklogo.png">
+        <link rel="apple-touch-startup-image" href="/blacklogo.png">
+        <!-- By Default, Links open externally (in safari) on the IOS Web App after 'download'. This prevents internal links from opening externally. It still allows external links to open externally, though. -->
+        <script type="text/javascript">
+            if(("standalone" in window.navigator) && window.navigator.standalone){
+                var noddy, remotes = false;
+                document.addEventListener('click', function(event) {
+                    noddy = event.target;
+                    while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+                    noddy = noddy.parentNode;
+                    }
+                    if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes))
+                    {
+                    event.preventDefault();
+                    document.location.href = noddy.href;
+                    }
+                },false);
+            }
+        </script>
+
+
 </head>
 
 <body data-spy="scroll" data-target="#navigation" data-offset="120">
@@ -464,7 +489,7 @@ _________________________________________________________ -->
                     <!-- /.6 -->
 
                     <div class="col-sm-6">
-                        <p>&copy; 2015 Duncan Fraiser All rights reserved.</p>
+                        <p>&copy; 2017 Duncan Fraiser All rights reserved.</p>
                     </div>
 
                 </div>
