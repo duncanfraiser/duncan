@@ -227,7 +227,7 @@ _________________________________________________________ -->
 
                         <p class="lead">Would you like to know more or just discuss something?</p>
 
-                        <p><a href="#contact" class="btn btn-default btn-lg scrollTo">Contact me</a>
+                        <p><a style=" text-decoration: none;" href="#contact" class="scrollTo redwhitebtn ">CONTACT ME</a>
                         </p>
 
                     </div>
@@ -452,7 +452,7 @@ _________________________________________________________ -->
                                             <textarea name="message" class="form-control" placeholder="Message for me *" rows="4" required="required"></textarea>
                                         </div>
                                         <div class="col-md-12 text-center">
-                                            <input type="submit" class="btn btn-primary btn-lg" value="Send message">
+                                            <input type="submit" class="redwhitebtn" value="Send message">
                                         </div>
                                     </div>
                                 </div>
