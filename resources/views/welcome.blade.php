@@ -159,7 +159,7 @@ _________________________________________________________ -->
         <div class="section text-gradient" id="services">
             <div class="container">
                 <div class="col-md-12">
-                    <h2 class="title" data-animate="fadeInDown">SKILLS</h2>
+                    <h2 class="title" data-animate="fadeInDown">FULL STACK SKILLS</h2>
 
                     <div class="row services">
 
@@ -236,7 +236,7 @@ _________________________________________________________ -->
                 <div class="col-sm-12">
 
                     <div class="mb20">
-                        <h2 class="title" data-animate="fadeInUp">My work</h2>
+                        <h2 class="title" data-animate="fadeInUp">Recent work</h2>
 
                         <p class="lead" data-animate="fadeInUp">I have worked on dozens of projects so I have picked only the latest for you.</p>
                     </div>
@@ -244,13 +244,11 @@ _________________________________________________________ -->
                     <ul id="filter" data-animate="fadeInUp">
                         <li class="active"><a href="#" data-filter="all">All</a>
                         </li>
-                        <li><a href="#" data-filter="webdesign">Webdesign</a>
+                        <li><a href="#" data-filter="charity">Charity</a>
                         </li>
-                        <li><a href="#" data-filter="seo">SEO</a>
+                        <li><a href="#" data-filter="entertainment">Entertainment</a>
                         </li>
-                        <li><a href="#" data-filter="marketing">Marketing</a>
-                        </li>
-                        <li><a href="#" data-filter="other">Other</a>
+                        <li><a href="#" data-filter="work">Work</a>
                         </li>
                     </ul>
 
@@ -271,14 +269,14 @@ _________________________________________________________ -->
 
                     <div id="references-masonry" data-animate="fadeInUp">
 
-                        <div class="reference-item" data-category="webdesign">
+                        <div class="reference-item" data-category="work">
                             <div class="reference">
                                 <a href="#">
-                                    <img src="img/portfolio-1.jpg" class="img-responsive" alt="" />
+                                    <img src="img/work.png" class="img-responsive" alt="" />
 
                                     <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
+                                        <h3 class="reference-title">Work Related Sites</h3> 
+                                        <p>I am the Lead Web Developer at Ergon, Inc.</p>
                                     </div>
                                 </a>
 
@@ -297,69 +295,14 @@ _________________________________________________________ -->
                                 </div>
                             </div>
                         </div>
-                        <div class="reference-item" data-category="seo">
+                        <div class="reference-item" data-category="charity">
                             <div class="reference">
                                 <a href="#">
-                                    <img src="img/portfolio-2.jpg" class="img-responsive" alt="" />
+                                    <img src="img/learning_center.png" class="img-responsive" alt="" />
 
                                     <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/main-slider1.jpg,img/main-slider2.jpg,img/main-slider3.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="reference-item" data-category="marketing">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/portfolio-3.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/main-slider1.jpg,img/main-slider2.jpg,img/main-slider3.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="reference-item" data-category="marketing">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/portfolio-4.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
+                                        <h3 class="reference-title">St Paul Early Learning Center</h3> 
+                                        <p>My daughter goes here.</p>
                                     </div>
                                 </a>
 
@@ -379,74 +322,18 @@ _________________________________________________________ -->
                             </div>
                         </div>
 
-                        <div class="reference-item" data-category="webdesign">
+                        <div class="reference-item" data-category="entertainment">
                             <div class="reference">
                                 <a href="#">
-                                    <img src="img/portfolio-5.jpg" class="img-responsive" alt="" />
+                                    <img src="img/kennykens.png" class="img-responsive" alt="" />
 
                                     <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
+                                        <h3 class="reference-title">Kenny Kens & The Brown Bottle Boys</h3> 
+                                        <p>100% Pure Detroit Honky Tonk!</p>
                                     </div>
                                 </a>
 
-                                <div class="sr-only reference-description" data-images="img/main-slider1.jpg,img/main-slider2.jpg,img/main-slider3.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="reference-item" data-category="other">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/portfolio-6.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/main-slider1.jpg,img/main-slider2.jpg,img/main-slider3.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="reference-item" data-category="seo">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/portfolio-7.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/main-slider1.jpg,img/main-slider2.jpg,img/main-slider3.jpg">
+                                <div class="sr-only reference-description" data-images="img/main-slider1.jpg,img/main-slider2.jpg,img/main-slider3.jpg,img/main-slider3.jpg">
 
                                     <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
                                         explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
@@ -459,17 +346,18 @@ _________________________________________________________ -->
                                         <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
                                     </p>
                                 </div>
+
                             </div>
                         </div>
 
-                        <div class="reference-item" data-category="webdesign">
+                        <div class="reference-item" data-category="charity">
                             <div class="reference">
                                 <a href="#">
-                                    <img src="img/portfolio-8.jpg" class="img-responsive" alt="" />
+                                    <img src="img/stpaul.png" class="img-responsive" alt="" />
 
                                     <div class="overlay">
-                                        <h3 class="reference-title">Project name</h3> 
-                                        <p>Short project description goes here...</p>
+                                        <h3 class="reference-title">St Paul Catholic Church</h3> 
+                                        <p>The Catholic Church my family attends.</p>
                                     </div>
                                 </a>
 
@@ -576,14 +464,7 @@ _________________________________________________________ -->
                     <!-- /.6 -->
 
                     <div class="col-sm-6">
-                        <p>&copy; 2015 Your name goes here. All rights reserved.</p>
-                    </div>
-
-                    <div class="col-sm-12">
-                        <p class="template-bootstrapious">Template by <a href="https://www.bootstrapious.com/">Bootstrapious</a></p>
-                        
-                        <!-- Please do not remove the backlink to us, unless you support the development at https://bootstrapious.com/donate. It is part of the license conditions. Thanks for understanding :)        -->
-                        
+                        <p>&copy; 2015 Duncan Fraiser All rights reserved.</p>
                     </div>
 
                 </div>
@@ -613,8 +494,8 @@ _________________________________________________________ -->
     <script src="js/waypoints.min.js"></script>
 
         <!-- maps -->
-{{--     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-    <script src="js/gmaps.js"></script> --}}
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script src="js/gmaps.js"></script>
 
 
     <!-- masonry layout -->
