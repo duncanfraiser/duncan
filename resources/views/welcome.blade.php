@@ -51,8 +51,8 @@
          <!-- APPLE IOS WEB APP NECESSITIES -->
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-title" content="Duncan">
-        <link rel="apple-touch-icon" href="{{url('/img/blacklogo.png')}}">
-        <link rel="apple-touch-startup-image" href="{{url('/img/blacklogo.png')}}">
+        <link rel="apple-touch-icon" href="{{url('/img/logoicon.png')}}">
+        <link rel="apple-touch-startup-image" href="{{url('/img/logoicon.png')}}">
         <!-- By Default, Links open externally (in safari) on the IOS Web App after 'download'. This prevents internal links from opening externally. It still allows external links to open externally, though. -->
         <script type="text/javascript">
             if(("standalone" in window.navigator) && window.navigator.standalone){
